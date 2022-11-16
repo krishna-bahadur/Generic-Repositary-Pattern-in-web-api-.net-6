@@ -1,0 +1,12 @@
+D:\Internship\Workspace\WebApi\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Internship\Workspace\WebApi\Domain\bin\Debug\net6.0\Domain.dll
+D:\Internship\Workspace\WebApi\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Internship\Workspace\WebApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Internship\Workspace\WebApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Workspace\WebApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Internship\Workspace\WebApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Internship\Workspace\WebApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Internship\Workspace\WebApi\Domain\obj\Debug\net6.0\Domain.dll
+D:\Internship\Workspace\WebApi\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Internship\Workspace\WebApi\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Internship\Workspace\WebApi\Domain\obj\Debug\net6.0\ref\Domain.dll

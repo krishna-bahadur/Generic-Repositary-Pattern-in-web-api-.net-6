@@ -1,0 +1,15 @@
+D:\Internship\Workspace\WebApi\DataAccessEF\bin\Debug\net6.0\DataAccessEF.deps.json
+D:\Internship\Workspace\WebApi\DataAccessEF\bin\Debug\net6.0\DataAccessEF.dll
+D:\Internship\Workspace\WebApi\DataAccessEF\bin\Debug\net6.0\DataAccessEF.pdb
+D:\Internship\Workspace\WebApi\DataAccessEF\bin\Debug\net6.0\Domain.dll
+D:\Internship\Workspace\WebApi\DataAccessEF\bin\Debug\net6.0\Domain.pdb
+D:\Internship\Workspace\WebApi\DataAccessEF\obj\Debug\net6.0\DataAccessEF.csproj.AssemblyReference.cache
+D:\Internship\Workspace\WebApi\DataAccessEF\obj\Debug\net6.0\DataAccessEF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Workspace\WebApi\DataAccessEF\obj\Debug\net6.0\DataAccessEF.AssemblyInfoInputs.cache
+D:\Internship\Workspace\WebApi\DataAccessEF\obj\Debug\net6.0\DataAccessEF.AssemblyInfo.cs
+D:\Internship\Workspace\WebApi\DataAccessEF\obj\Debug\net6.0\DataAccessEF.csproj.CoreCompileInputs.cache
+D:\Internship\Workspace\WebApi\DataAccessEF\obj\Debug\net6.0\DataAccessEF.csproj.CopyComplete
+D:\Internship\Workspace\WebApi\DataAccessEF\obj\Debug\net6.0\DataAccessEF.dll
+D:\Internship\Workspace\WebApi\DataAccessEF\obj\Debug\net6.0\refint\DataAccessEF.dll
+D:\Internship\Workspace\WebApi\DataAccessEF\obj\Debug\net6.0\DataAccessEF.pdb
+D:\Internship\Workspace\WebApi\DataAccessEF\obj\Debug\net6.0\ref\DataAccessEF.dll
